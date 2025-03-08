@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring boot<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Angular<br>💬 Ask me about Reactjs<br>⚡ Fun fact 
+🔭 I’m currently working on Spring boot<br>👯 I’m looking to collaborate on ReactJS ,AngularJS , SpringBoot , NodeJS <br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Angular ,JAVA<br>💬 Ask me about ReactJS ,AngularJS , SpringBoot , NodeJS<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
